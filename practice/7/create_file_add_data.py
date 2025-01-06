@@ -1,5 +1,0 @@
-f = open("D:\python\lecture_7\demo_practice.txt","w")
-f.write("Hi everyone\n")
-f.write("we are learning File I/O\n")
-f.write("using Java.\nI like programming in Java")
-f.close()
